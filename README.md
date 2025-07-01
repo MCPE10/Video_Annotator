@@ -1,6 +1,6 @@
 # Video Annotator Flutter App
 
-A Flutter application for recording videos and adding annotations with various drawing tools. Perfect for educational content, tutorials, and video analysis.
+An iOS Flutter application for recording videos and adding annotations with various drawing tools. Perfect for educational content, tutorials, and video analysis.
 
 ## Features
 
